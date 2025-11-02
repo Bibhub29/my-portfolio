@@ -1,0 +1,16 @@
+{
+    {
+    "emmet.includeLanguages": {
+        "html": "html",
+        "javascript": "javascriptreact",
+        "plaintext": "html"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    }
+}
+
+}
