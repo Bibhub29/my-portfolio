@@ -314,7 +314,7 @@ section:not([id]) {
     animation: scaleIn 0.6s ease-out forwards;
 }
 
-@media (max-width: 468px) {
+@media (max-width: 450px) {
     #hero .container:first-child {
     padding: 1.5rem;
     padding-bottom: 3.5rem;
