@@ -792,9 +792,6 @@ section:not([id]) {
     transition: var(--transition);
 }
 
-#hero img:hover {
-    transform: scale(1.05);
-}
 
 #contact {
     display: grid;
@@ -829,8 +826,7 @@ section:not([id]) {
 }
 
 #contact .container:last-child {
-    padding: 1.5rem;
-    animation: scaleIn 0.6s ease-out 0.1s forwards;
+    padding: 1.5rem;    
     justify-content: space-between;
 }
 
